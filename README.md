@@ -1,3 +1,17 @@
+# 校园工具箱（Campus Toolbox）
+
+> 基于 it-tools 改造，专为大学生设计的在线工具集合
+
+## 新增校园工具
+
+| 工具 | 功能 | 在线使用 |
+|------|------|----------|
+| 绩点/加权平均分换算 | 6 种算法切换，支持分数/等级输入 | [使用](https://halexze.github.io/it-tools/gpa-calculator) |
+| 课表冲突检测 | 单双周冲突检测，空闲时段计算 | [使用](https://halexze.github.io/it-tools/schedule-conflict-checker) |
+| 公文格式自检 | GB/T 9704 规范检查，10+ 项规则 | [使用](https://halexze.github.io/it-tools/document-format-checker) |
+| 参考文献格式转换 | GB/T 7714 / APA / MLA / Chicago | [使用](https://halexze.github.io/it-tools/citation-format-converter) |
+
+---
 <picture>
     <source srcset="./.github/logo-dark.png" media="(prefers-color-scheme: light)">
     <source srcset="./.github/logo-white.png" media="(prefers-color-scheme: dark)">
