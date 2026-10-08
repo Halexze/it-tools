@@ -70,6 +70,7 @@ tools:
     measurement: '测量'
     text: '文本'
     data: '数据'
+    campus: '校园工具'
 
   password-strength-analyser:
     title: 密码强度分析仪

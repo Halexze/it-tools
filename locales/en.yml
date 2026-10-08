@@ -70,6 +70,7 @@ tools:
     measurement: Measurement
     text: Text
     data: Data
+    campus: Campus
 
   password-strength-analyser:
     title: Password strength analyser
